@@ -1,0 +1,13 @@
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.exe
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.deps.json
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.runtimeconfig.json
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.runtimeconfig.dev.json
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.dll
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.pdb
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.csprojAssemblyReference.cache
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.AssemblyInfoInputs.cache
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.AssemblyInfo.cs
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.csproj.CoreCompileInputs.cache
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.dll
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.pdb
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.genruntimeconfig.cache
